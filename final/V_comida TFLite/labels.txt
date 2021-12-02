@@ -1,5 +1,0 @@
-hamburguesas
-papas_fritas
-perro_caliente
-pizza
-pollo_asado
